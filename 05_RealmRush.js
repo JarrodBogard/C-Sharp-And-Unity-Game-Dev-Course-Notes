@@ -84,3 +84,76 @@
 // !!! Review and notate !!!
 
 // Lesson 23: Refactoring
+
+// Lesson 24: Playtest and Balance
+
+// Lesson 25: Pathfinding Decisions
+
+// !!! Review & notate !!!
+
+// Pathfinding options:
+// 1. Breadth First Search (BFS) - simplest.
+// 2. Dijkstra's - most accurate/sophisticated???
+// 3. A* (a.k.a A Star) - most common in gaming???
+//      - most complex???
+//          - complexity doesn't always mean best.
+
+// Starting with BFS, with some modifications it can be converted into Dijkstra's.
+//      - Once converted to Dijkstra's, it can then be converted to A* by adding a heuristic.
+//          - A* can be thought of as an extension of Dijkstra's.
+
+// Lesson 26: Breadth First Search
+
+// Review & notate!!!
+
+// Lesson 27: Pure C# Classes
+
+// !!! Review & notate !!!
+
+// Lesson 28: Dictionaries
+
+// !!! Review & notate !!!
+
+// Lesson 29: More Debugging Tools
+
+// Lesson 30: Exploring Neighbors
+
+// !!! Review & notate !!!
+
+// Lesson 31: Exploring the World
+
+// Review & notate!!!
+
+// Lesson 32: Finding the Path (again!)
+
+// Review & notate!!!
+
+// Lesson 33: Blocking Nodes
+
+// Review!!!
+
+// Lesson 34: Valid Path
+
+// !!! Review & notate !!!
+
+// Lesson 35: Script Execution Order
+
+// !!! Review & notate !!!
+
+// Lesson 36: Broadcast Message
+
+// Review & notate!!!
+
+// Lesson 37: Overloading Methods
+
+// !!! Review & notate !!!
+
+// Lesson 38: Build Timer
+
+// !!! Review & notate !!!
+
+// Lesson 39: Ambience
+
+// Review!!!
+
+// Lesson 40: Post Processing
